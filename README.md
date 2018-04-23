@@ -6,16 +6,14 @@ Welcome to the DIGITAL ART SHOP! Hosted by @chaseman3245 and @sterogurt
 
 [@Digital_art_shop](https://scratch.mit.edu/users/Digital_art_shop) is the official shop account.
 
-(IF YOU ARE ORDERING PLEASE CHECK THE INACTIVE ARTISTS TO SEE WHO IS UNABLE TO DO YOUR ORDER)
 
-(IF YOU ARE A EMPLOYEE HERE AND YOU TAKE AN ORDER PLEASE CHECK THE LIST OF MEBERSHIP CARD HOLDERS!)
-
-WE OFFER MEMBERSHIP CARDS!! (optional)
+## Membership Cards
 
 Membership card form:
 
 --------------------------------------
 Username(No @):
+
 Birth month(optional):
 
 --------------------------------------
@@ -31,6 +29,7 @@ PERKS OF MEMBERSHIP CARD:
 
 If an artist you want to order from has an order sheet please order with that, if they don't have one, than post a comment to order.
 
+## Sponsors
 ---------------------------------------
 
 We are sponsors of:
@@ -40,14 +39,8 @@ https://scratch.mit.edu/studios/4596666/projects/
 
 ----------------------------------------
 
-NOT HIRING
-
-APPLICATION:
-Art type you want to work in (you can pick more than 1):
-How active are you?:
-Link to art you have made(OPTIONAL):
-
-If you want to request art fill out the order form in the comments.
+## Order
+If you want to request art fill out the order form in the [comments](https://scratch.mit.edu/studios/4608017/comments/).
 
 (Scroll down to see types and artists.)
 
